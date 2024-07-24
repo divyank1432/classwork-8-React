@@ -1,0 +1,24 @@
+.temp:hover {
+  cursor: pointer;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  margin: 0;
+}
+
+button {
+  border-radius: 4px;
+}
+
+div[style*="border-right"] {
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.MarkdownEditor {
+  width: 100%;
+}
